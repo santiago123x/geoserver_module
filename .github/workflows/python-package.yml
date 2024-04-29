@@ -5,7 +5,7 @@ name: Devops AClimate Resampling
 
 on:
   push:
-    branches: [ "stage" ]
+    branches: [ "main" ]
     tags:
     - 'v*'
 
